@@ -27,8 +27,12 @@
             "id": "83aac5705fdb8df6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SICP/Выражение.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SICP/Выражение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SICP/Выражение.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SICP/Выражение.md"
+              }
             }
           },
           {
@@ -185,6 +193,7 @@
   },
   "active": "83aac5705fdb8df6",
   "lastOpenFiles": [
+    "SICP/Выражение.md",
     "SICP",
     "ОС/Без названия.md",
     "Js learn/Б Методы работы с  Array.md",
@@ -219,7 +228,6 @@
     "Js learn/Операторы",
     "Js learn/Наследование",
     "Js learn/база",
-    "Js learn/JSON",
-    "Наследование"
+    "Js learn/JSON"
   ]
 }
