@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SICP/Выражение.md",
+                "file": "SICP/Теория/Выражение.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SICP/Выражение.md",
+                "file": "SICP/Теория/Выражение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SICP/Выражение.md",
+                "file": "SICP/Теория/Выражение.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SICP/Выражение.md"
+                "file": "SICP/Теория/Выражение.md"
               }
             }
           },
@@ -191,9 +191,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "83aac5705fdb8df6",
+  "active": "5698d76060d07f81",
   "lastOpenFiles": [
-    "SICP/Выражение.md",
+    "SICP/Упражения",
+    "SICP/Теория",
+    "SICP/Теория/Выражение.md",
     "SICP",
     "ОС/Без названия.md",
     "Js learn/Б Методы работы с  Array.md",
@@ -222,12 +224,10 @@
     "Js learn/Тестирование",
     "Js learn/Преобразование/Преобразование типов.md",
     "Js learn/Преобразование/Преобразования объекта в примитивные типы.md",
-    "Js learn/Преобразование/Преобразование объекта в массив.md",
     "Js learn/Преобразование",
     "Js learn/Операции и операторы над примитивами",
     "Js learn/Операторы",
     "Js learn/Наследование",
-    "Js learn/база",
-    "Js learn/JSON"
+    "Js learn/база"
   ]
 }
