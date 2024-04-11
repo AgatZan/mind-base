@@ -39,8 +39,12 @@
             "id": "91157f9602cdc0ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HP/Регистры/Общего назначения.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HP/Регистры/Общего назначения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HP/Регистры/Общего назначения.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HP/Регистры/Общего назначения.md"
+              }
             }
           },
           {
@@ -184,11 +192,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "664d7baf772ef387",
+  "active": "91157f9602cdc0ef",
   "lastOpenFiles": [
+    "HP/Память.md",
     "HP/Регистры/Общего назначения.md",
     "HP/Регистры",
-    "HP/Память.md",
     "HP",
     "SICP/Теория/Без названия.md",
     "SICP/Теория/Выражение.md",
