@@ -11,8 +11,12 @@
             "id": "e2894cf9391433b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HP/Модификация адресов.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -41,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HP/Регистры.md",
+                "file": "HP/Регистры/Указатель команд.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +59,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HP/Регистры.md",
+                "file": "HP/Модификация адресов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HP/Регистры.md",
+                "file": "HP/Модификация адресов.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HP/Регистры.md"
+                "file": "HP/Модификация адресов.md"
               }
             }
           },
@@ -192,15 +195,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "91157f9602cdc0ef",
+  "active": "e2894cf9391433b4",
   "lastOpenFiles": [
+    "HP/Регистры.md",
+    "HP/Регистры/Флаг.md",
+    "HP/Память.md",
+    "HP/Регистры/Указатель команд.md",
+    "HP/Регистры/Сегментные.md",
+    "Регистры/Сегментные.md",
+    "Регистры",
     "HP/Модификация адресов.md",
     "HP/Машинные операции.md",
-    "HP/Регистры.md",
     "HP/Регистры/Без названия.md",
     "HP/Регистры/Общего назначения.md",
     "машинных операциях.md",
-    "HP/Память.md",
     "HP/Регистры",
     "HP",
     "SICP/Теория/Без названия.md",
@@ -221,14 +229,9 @@
     "Js learn/for of.md",
     "Js learn/for in.md",
     "Js learn/Хаки/Хак №3 копирование с учетом флагов.md",
-    "Js learn/Хаки/Хак №1 Большое количество параметров в функции.md",
-    "Js learn/Хаки/Хак №2 Список аргументов в массив.md",
     "Js learn/Хаки",
-    "Js learn/Функции/Стрелочная функция.md",
-    "Js learn/Функции/NFE.md",
     "Js learn/Функции",
     "Js learn/Тестирование",
-    "Js learn/Преобразование",
-    "Js learn/Операции и операторы над примитивами"
+    "Js learn/Преобразование"
   ]
 }
