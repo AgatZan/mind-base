@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HP/Регистры/Общего назначения.md",
+                "file": "HP/Модификация адресов.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HP/Регистры/Общего назначения.md",
+                "file": "HP/Модификация адресов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HP/Регистры/Общего назначения.md",
+                "file": "HP/Модификация адресов.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HP/Регистры/Общего назначения.md"
+                "file": "HP/Модификация адресов.md"
               }
             }
           },
@@ -194,8 +194,11 @@
   },
   "active": "91157f9602cdc0ef",
   "lastOpenFiles": [
-    "HP/Память.md",
+    "HP/Машинные операции.md",
+    "HP/Модификация адресов.md",
     "HP/Регистры/Общего назначения.md",
+    "машинных операциях.md",
+    "HP/Память.md",
     "HP/Регистры",
     "HP",
     "SICP/Теория/Без названия.md",
@@ -223,9 +226,7 @@
     "Js learn/Функции/NFE.md",
     "Js learn/Функции/New Function.md",
     "Js learn/Функции/Function Expression.md",
-    "Js learn/Функции/Function Declaration.md",
     "Js learn/Функции",
-    "Js learn/Тестирование/Mocha.md",
     "Js learn/Тестирование",
     "Js learn/Преобразование",
     "Js learn/Операции и операторы над примитивами"
