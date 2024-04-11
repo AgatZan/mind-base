@@ -24,12 +24,12 @@
             }
           },
           {
-            "id": "83aac5705fdb8df6",
+            "id": "2f09078ab0dd611f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SICP/Теория/Выражение.md",
+                "file": "HP/Память.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SICP/Теория/Выражение.md",
+                "file": "HP/Память.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SICP/Теория/Выражение.md",
+                "file": "HP/Память.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SICP/Теория/Выражение.md"
+                "file": "HP/Память.md"
               }
             }
           },
@@ -191,8 +191,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "83aac5705fdb8df6",
+  "active": "2f09078ab0dd611f",
   "lastOpenFiles": [
+    "HP/Память.md",
+    "HP",
     "SICP/Теория/Без названия.md",
     "SICP/Теория/Выражение.md",
     "SICP/Упражения",
@@ -224,10 +226,8 @@
     "Js learn/Тестирование/Chai.md",
     "Js learn/Тестирование",
     "Js learn/Преобразование/Преобразование типов.md",
-    "Js learn/Преобразование/Преобразования объекта в примитивные типы.md",
     "Js learn/Преобразование",
     "Js learn/Операции и операторы над примитивами",
-    "Js learn/Операторы",
-    "Js learn/Наследование"
+    "Js learn/Операторы"
   ]
 }
