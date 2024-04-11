@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HP/Модификация адресов.md",
+                "file": "HP/Регистры.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HP/Модификация адресов.md",
+                "file": "HP/Регистры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HP/Модификация адресов.md",
+                "file": "HP/Регистры.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HP/Модификация адресов.md"
+                "file": "HP/Регистры.md"
               }
             }
           },
@@ -194,8 +194,10 @@
   },
   "active": "91157f9602cdc0ef",
   "lastOpenFiles": [
-    "HP/Машинные операции.md",
     "HP/Модификация адресов.md",
+    "HP/Машинные операции.md",
+    "HP/Регистры.md",
+    "HP/Регистры/Без названия.md",
     "HP/Регистры/Общего назначения.md",
     "машинных операциях.md",
     "HP/Память.md",
@@ -224,8 +226,6 @@
     "Js learn/Хаки",
     "Js learn/Функции/Стрелочная функция.md",
     "Js learn/Функции/NFE.md",
-    "Js learn/Функции/New Function.md",
-    "Js learn/Функции/Function Expression.md",
     "Js learn/Функции",
     "Js learn/Тестирование",
     "Js learn/Преобразование",
