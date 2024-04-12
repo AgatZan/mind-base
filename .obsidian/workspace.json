@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HP/Модификация адресов.md",
+                "file": "HP/Регистры/Общего назначения.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HP/Модификация адресов.md",
+                "file": "HP/Регистры/Общего назначения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HP/Модификация адресов.md",
+                "file": "HP/Регистры/Общего назначения.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HP/Модификация адресов.md"
+                "file": "HP/Регистры/Общего назначения.md"
               }
             }
           },
@@ -175,6 +175,18 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "4e42a8ded87f2f5a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ],
@@ -197,14 +209,14 @@
   },
   "active": "e2894cf9391433b4",
   "lastOpenFiles": [
-    "HP/Регистры.md",
-    "HP/Регистры/Флаг.md",
-    "HP/Память.md",
-    "HP/Регистры/Указатель команд.md",
     "HP/Регистры/Сегментные.md",
+    "HP/Регистры/Указатель команд.md",
+    "HP/Регистры/Флаг.md",
+    "HP/Модификация адресов.md",
+    "HP/Регистры.md",
+    "HP/Память.md",
     "Регистры/Сегментные.md",
     "Регистры",
-    "HP/Модификация адресов.md",
     "HP/Машинные операции.md",
     "HP/Регистры/Без названия.md",
     "HP/Регистры/Общего назначения.md",
