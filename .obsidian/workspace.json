@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS/Слои/Tool.md",
+                "file": "Web/CSS/Методологии/ITCSS/Слои/Generics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS/Слои/Tool.md",
+                "file": "Web/CSS/Методологии/ITCSS/Слои/Generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS/Слои/Tool.md",
+                "file": "Web/CSS/Методологии/ITCSS/Слои/Generics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS/Слои/Tool.md"
+                "file": "Web/CSS/Методологии/ITCSS/Слои/Generics.md"
               }
             }
           },
@@ -169,10 +169,11 @@
   "active": "dd83821037d07cca",
   "lastOpenFiles": [
     "Web/CSS/Методологии/ITCSS/_.md",
+    "Web/CSS/Методологии/ITCSS/Слои/Generics.md",
+    "Web/CSS/Методологии/ITCSS/Code of Conduct.md",
     "Web/CSS/Методологии/ITCSS/Слои/Tool.md",
     "Web/CSS/Методологии/ITCSS/Слои/Settings.md",
     "Web/CSS/Методологии/ITCSS/Слои",
-    "Web/CSS/Методологии/ITCSS/Code of Conduct.md",
     "Web/CSS/Методологии/ITCSS.md",
     "Web/CSS/Методологии/ITCSS",
     "Web/CSS/Терминология/Миксины.md",
@@ -202,7 +203,6 @@
     "Js learn/WeakSet.md",
     "Js learn/WeakMap.md",
     "Js learn/Symbol.md",
-    "Js learn/Swap.md",
-    "Js learn/setTimeout.md"
+    "Js learn/Swap.md"
   ]
 }
