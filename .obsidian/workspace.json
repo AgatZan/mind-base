@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS/Code of Conduct.md",
+                "file": "Web/CSS/Методологии/BEM/_.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS/Code of Conduct.md",
+                "file": "Web/CSS/Методологии/BEM/_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS/Code of Conduct.md",
+                "file": "Web/CSS/Методологии/BEM/_.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS/Code of Conduct.md"
+                "file": "Web/CSS/Методологии/BEM/_.md"
               }
             }
           },
@@ -166,13 +166,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5698d76060d07f81",
+  "active": "dd83821037d07cca",
   "lastOpenFiles": [
-    "Web/CSS/Методологии/SMACSS",
     "Web/CSS/Методологии/ITCSS/_.md",
+    "Web/CSS/Методологии/BEM/_.md",
+    "Web/CSS/Методологии/ITCSS/Code of Conduct.md",
+    "Web/CSS/Методологии/BEM",
+    "Web/CSS/Методологии/SMACSS",
     "Web/CSS/Методологии/ITCSS/Слои/Objects.md",
     "Web/CSS/Методологии/ITCSS/Слои/Elements.md",
-    "Web/CSS/Методологии/ITCSS/Code of Conduct.md",
     "Web/CSS/Методологии/ITCSS/Слои/Trumps.md",
     "Web/CSS/Методологии/ITCSS/Слои/Tool.md",
     "Web/CSS/Методологии/ITCSS/Слои/Generics.md",
@@ -197,11 +199,9 @@
     "HP/Регистры.md",
     "HP/Память.md",
     "Регистры/Сегментные.md",
-    "Регистры",
     "HP/Машинные операции.md",
     "HP/Регистры/Без названия.md",
     "машинных операциях.md",
-    "HP/Регистры",
     "ОС/Без названия.md",
     "Js learn/Б Методы работы с  Array.md"
   ]
