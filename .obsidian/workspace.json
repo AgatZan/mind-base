@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/CSS/Методологии/BEM/Code Of Conduct.md",
+                "file": "Web/CSS/Методологии/BEM/Микс.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/CSS/Методологии/BEM/Code Of Conduct.md",
+                "file": "Web/CSS/Методологии/BEM/Микс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/CSS/Методологии/BEM/Code Of Conduct.md",
+                "file": "Web/CSS/Методологии/BEM/Микс.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/CSS/Методологии/BEM/Code Of Conduct.md"
+                "file": "Web/CSS/Методологии/BEM/Микс.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   "active": "dd83821037d07cca",
   "lastOpenFiles": [
     "Web/CSS/Методологии/BEM/_.md",
+    "Web/CSS/Методологии/BEM/Микс.md",
     "Web/CSS/Методологии/BEM/Code Of Conduct.md",
     "Element.md",
     "Web/CSS/Методологии/ITCSS/_.md",
@@ -202,7 +203,6 @@
     "HP/Память.md",
     "Регистры/Сегментные.md",
     "HP/Машинные операции.md",
-    "HP/Регистры/Без названия.md",
-    "машинных операциях.md"
+    "HP/Регистры/Без названия.md"
   ]
 }
