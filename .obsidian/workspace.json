@@ -168,8 +168,9 @@
   },
   "active": "dd83821037d07cca",
   "lastOpenFiles": [
-    "Web/CSS/Методологии/ITCSS/_.md",
+    "Element.md",
     "Web/CSS/Методологии/BEM/_.md",
+    "Web/CSS/Методологии/ITCSS/_.md",
     "Web/CSS/Методологии/ITCSS/Code of Conduct.md",
     "Web/CSS/Методологии/BEM",
     "Web/CSS/Методологии/SMACSS",
@@ -202,7 +203,6 @@
     "HP/Машинные операции.md",
     "HP/Регистры/Без названия.md",
     "машинных операциях.md",
-    "ОС/Без названия.md",
-    "Js learn/Б Методы работы с  Array.md"
+    "ОС/Без названия.md"
   ]
 }
