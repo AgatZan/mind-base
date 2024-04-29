@@ -1,0 +1,64 @@
+
+
+### Примеры
+
+	elements/_button.scss
+```scss
+.e-button {
+    background: $blue;
+    border: 1px solid $blue;
+    color: $white;
+    display: inline-block;
+    font-weight: bold;
+    padding: 13px 20px;
+    text-decoration: none;
+
+    &[disabled] {
+        pointer-events: none;
+    }
+
+    &:hover,
+    &:focus {
+        background: $light-blue;
+        border-color: $light-blue;
+        color: $white;
+        outline: none;
+        text-decoration: none;
+    }
+
+    // button with a icomoon icon
+    > [class^='icon-'] {
+        display: inline-block;
+        font-size: 1.5em;
+        line-height: 1em;
+        margin-left: 45px;
+    }
+}
+
+.e-button--full {
+    display: block;
+    text-align: center;
+    width: 100%;
+}
+
+.e-button--transparent {
+    background: transparent;
+    color: $blue;
+
+    &:hover,
+    &:focus {
+        background: transparent;
+        color: $light-blue;
+    }
+}
+
+.e-button--dark {
+    background-color: $light-blue;
+    border-color: $light-blue;
+    color: $white;
+
+    &:hover {
+        background-color: $blue;
+    }
+}
+```
