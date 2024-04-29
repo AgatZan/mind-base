@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS.md",
+                "file": "Web/CSS/Методологии/ITCSS/_.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS.md",
+                "file": "Web/CSS/Методологии/ITCSS/_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS.md",
+                "file": "Web/CSS/Методологии/ITCSS/_.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS.md"
+                "file": "Web/CSS/Методологии/ITCSS/_.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "dd83821037d07cca",
   "lastOpenFiles": [
-    "Web/CSS/Терминология/Миксины.md",
     "Web/CSS/Методологии/ITCSS.md",
+    "Web/CSS/Методологии/ITCSS/_.md",
+    "Web/CSS/Методологии/ITCSS",
+    "Web/CSS/Терминология/Миксины.md",
     "Web/CSS/Терминология",
     "Web/CSS/Методологии",
     "Web/CSS",
@@ -192,7 +194,6 @@
     "машинных операциях.md",
     "HP/Регистры",
     "HP",
-    "SICP/Упражения",
     "ОС/Без названия.md",
     "Js learn/Б Методы работы с  Array.md",
     "Js learn/WeakSet.md",
@@ -202,7 +203,6 @@
     "Js learn/setTimeout.md",
     "Js learn/setInterval.md",
     "Js learn/Set.md",
-    "Js learn/Map.md",
-    "Js learn/for of.md"
+    "Js learn/Map.md"
   ]
 }
