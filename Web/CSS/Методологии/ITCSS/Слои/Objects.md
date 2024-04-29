@@ -1,0 +1,50 @@
+
+### Примеры
+
+	objects/_grid.scss
+```scss
+.o-grid {
+    align-items: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+    margin: $grid-gutter-width / -2;
+
+    &--middle {
+        align-items: center;
+    }
+
+    &--center {
+        justify-content: center;
+    }
+
+    &--reverse {
+        flex-direction: row-reverse;
+    }
+
+    &--stretch {
+        align-items: stretch;
+    }
+
+    @each $breakpoint-name, $breakpoint in $breakpoints {
+        @include mediaMax($breakpoint) {
+            &--#{$breakpoint-name}-reverse {
+                flex-direction: row-reverse;
+            }
+        }
+    }
+}
+
+.o-grid__item {
+    flex: 1;
+    padding: $grid-gutter-width / 2;
+    width: 100%;
+
+    &--flex {
+        display: flex;
+    }
+
+    &--stretch {
+        align-self: stretch;
+    }
+}
+```
