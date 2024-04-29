@@ -168,8 +168,10 @@
   },
   "active": "dd83821037d07cca",
   "lastOpenFiles": [
-    "Web/CSS/Методологии/ITCSS/Code of Conduct.md",
+    "Web/CSS/Методологии/ITCSS/Слои/Settings.md",
     "Web/CSS/Методологии/ITCSS/_.md",
+    "Web/CSS/Методологии/ITCSS/Слои",
+    "Web/CSS/Методологии/ITCSS/Code of Conduct.md",
     "Web/CSS/Методологии/ITCSS.md",
     "Web/CSS/Методологии/ITCSS",
     "Web/CSS/Терминология/Миксины.md",
@@ -194,7 +196,6 @@
     "HP/Регистры/Без названия.md",
     "машинных операциях.md",
     "HP/Регистры",
-    "HP",
     "ОС/Без названия.md",
     "Js learn/Б Методы работы с  Array.md",
     "Js learn/WeakSet.md",
@@ -202,7 +203,6 @@
     "Js learn/Symbol.md",
     "Js learn/Swap.md",
     "Js learn/setTimeout.md",
-    "Js learn/setInterval.md",
-    "Js learn/Set.md"
+    "Js learn/setInterval.md"
   ]
 }
