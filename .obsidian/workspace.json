@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS/_.md",
+                "file": "Web/CSS/Методологии/ITCSS/Code of Conduct.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS/_.md",
+                "file": "Web/CSS/Методологии/ITCSS/Code of Conduct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS/_.md",
+                "file": "Web/CSS/Методологии/ITCSS/Code of Conduct.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/CSS/Методологии/ITCSS/_.md"
+                "file": "Web/CSS/Методологии/ITCSS/Code of Conduct.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "dd83821037d07cca",
   "lastOpenFiles": [
-    "Web/CSS/Методологии/ITCSS.md",
     "Web/CSS/Методологии/ITCSS/_.md",
+    "Web/CSS/Методологии/ITCSS/Code of Conduct.md",
+    "Web/CSS/Методологии/ITCSS.md",
     "Web/CSS/Методологии/ITCSS",
     "Web/CSS/Терминология/Миксины.md",
     "Web/CSS/Терминология",
@@ -202,7 +203,6 @@
     "Js learn/Swap.md",
     "Js learn/setTimeout.md",
     "Js learn/setInterval.md",
-    "Js learn/Set.md",
-    "Js learn/Map.md"
+    "Js learn/Set.md"
   ]
 }
