@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TreeSitter/DSL/Seq.md",
+                "file": "TreeSitter/grammar.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TreeSitter/DSL/Seq.md",
+                "file": "TreeSitter/grammar.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TreeSitter/DSL/Seq.md",
+                "file": "TreeSitter/grammar.js.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TreeSitter/DSL/Seq.md"
+                "file": "TreeSitter/grammar.js.md"
               }
             }
           },
@@ -168,7 +168,10 @@
   },
   "active": "dd83821037d07cca",
   "lastOpenFiles": [
+    "TreeSitter/CLI/generate.md",
+    "TreeSitter/grammar.js.md",
     "TreeSitter/DSL/Seq.md",
+    "TreeSitter/CLI",
     "TreeSitter/DSL",
     "TreeSitter",
     "Web/CSS/Методологии/BEM/Слои/Элемент.md",
@@ -194,8 +197,6 @@
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 3 Деревья разбора/Крона дерева.md",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 3 Деревья разбора/Дерево разбора.md",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 2 КС-грамматики/Язык рождаемой КС-грамматикой.md",
-    "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 2 КС-грамматики/Терминальный символ.md",
-    "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 2 КС-грамматики/Сентенциальная форма(выводимая цепочка).md",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 9 Недетерминированный конечный распознователь",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 8 Минимальные автоматы",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 7 Регулярные выражения",
@@ -203,7 +204,6 @@
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 4 Неоднозначные грамматики",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 3 Деревья разбора",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 2 КС-грамматики",
-    "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 1 Формальные языки",
     "Linux learn/Linux/Исходники/browser_K437Z8U7MD.png"
   ]
 }
