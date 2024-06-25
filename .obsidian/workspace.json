@@ -125,7 +125,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,7 +166,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "dd83821037d07cca",
+  "active": "161fece31d3a7c02",
   "lastOpenFiles": [
     "Web/CSS/Методологии/BEM/_.md",
     "Web/CSS/Методологии/BEM/Code Of Conduct.md",
