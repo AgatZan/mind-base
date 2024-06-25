@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TreeSitter/grammar.js.md",
+                "file": "TreeSitter/DSL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TreeSitter/grammar.js.md",
+                "file": "TreeSitter/DSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TreeSitter/grammar.js.md",
+                "file": "TreeSitter/DSL.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TreeSitter/grammar.js.md"
+                "file": "TreeSitter/DSL.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "dd83821037d07cca",
   "lastOpenFiles": [
-    "TreeSitter/CLI/generate.md",
     "TreeSitter/grammar.js.md",
+    "TreeSitter/DSL.md",
+    "TreeSitter/CLI.md",
+    "TreeSitter/CLI/generate.md",
     "TreeSitter/DSL/Seq.md",
     "TreeSitter/CLI",
     "TreeSitter/DSL",
@@ -195,8 +197,6 @@
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 3 Деревья разбора/Левые-правые порождения.md",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 3 Деревья разбора/Лево-право выводимые цепочки.md",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 3 Деревья разбора/Крона дерева.md",
-    "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 3 Деревья разбора/Дерево разбора.md",
-    "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 2 КС-грамматики/Язык рождаемой КС-грамматикой.md",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 9 Недетерминированный конечный распознователь",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 8 Минимальные автоматы",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 7 Регулярные выражения",
