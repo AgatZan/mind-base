@@ -8,3 +8,4 @@
 | **reepeat1**        | *rule*         | regExp **+**                                |
 | **token**           | *rule*         | regExp as only 1 token                      |
 | **token.immediate** | *rule*         | token if !*extra*( комментарий или пробел ) |
+| **alias**           | *rule*, *name* | alt name=**name** для                       |
