@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test_case/Шпаргалка по Markdown.md",
+                "file": "Books/System Design/Вертикальное масштабирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test_case/Шпаргалка по Markdown.md",
+                "file": "Books/System Design/Вертикальное масштабирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test_case/Шпаргалка по Markdown.md",
+                "file": "Books/System Design/Вертикальное масштабирование.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test_case/Шпаргалка по Markdown.md"
+                "file": "Books/System Design/Вертикальное масштабирование.md"
               }
             }
           },
@@ -180,12 +180,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5698d76060d07f81",
+  "active": "1731939232db0bfc",
   "lastOpenFiles": [
+    "test_case/Шпаргалка по Markdown.md",
+    "Books/System Design/Вертикальное масштабирование.md",
+    "Без названия.md",
     "Books/System Design",
     "Books",
     "test_case/README.md",
-    "test_case/Шпаргалка по Markdown.md",
     "test_case/Шпаргалка по git.md",
     "TreeSitter/Замечания.md",
     "TreeSitter/CLI.md",
@@ -213,11 +215,9 @@
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 6 Конечные автоматы/Допускающаяся цепочка.md",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 6 Конечные автоматы/Детерминированный конечный распознователь(ДКР).md",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 6 Конечные автоматы/Детерминированный конечный автомат (ДКА).md",
-    "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 4 Неоднозначные грамматики/Существенно-неоднозначный язык.md",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 9 Недетерминированный конечный распознователь",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 8 Минимальные автоматы",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 7 Регулярные выражения",
-    "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 6 Конечные автоматы",
     "Linux learn/Linux/Исходники/browser_K437Z8U7MD.png"
   ]
 }
