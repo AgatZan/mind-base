@@ -171,6 +171,7 @@
   "active": "1731939232db0bfc",
   "lastOpenFiles": [
     "Books/System Design/Горизонтальное масштабирование сервера.md",
+    "Books/System Design/Согласованное шардирование.md",
     "Books/System Design/Горизонтальное масштабирование БД.md",
     "Books/System Design/Логирование.md",
     "Books/System Design/Масштабирование.md",
@@ -200,7 +201,6 @@
     "TreeSitter/Parse/DSL/Seq.md",
     "TreeSitter/Parse/DSL.md",
     "TreeSitter/grammar.js.md",
-    "TreeSitter/Scaner/Scaner.md",
     "TreeSitter/Scaner",
     "TreeSitter/Parse",
     "TreeSitter/CLI",
