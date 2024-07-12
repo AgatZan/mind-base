@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/System Design/Метрики.md",
+                "file": "Books/System Design/Логирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/System Design/Метрики.md",
+                "file": "Books/System Design/Логирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/System Design/Метрики.md",
+                "file": "Books/System Design/Логирование.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/System Design/Метрики.md"
+                "file": "Books/System Design/Логирование.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "1731939232db0bfc",
   "lastOpenFiles": [
-    "Books/System Design/Очередь сообщений.md",
     "Books/System Design/Метрики.md",
+    "Books/System Design/Логирование.md",
+    "Books/System Design/Очередь сообщений.md",
     "Books/System Design/Центр обработки данных.md",
     "Паттерны/Команда.md",
     "Паттерны/Наблюдатель.md",
@@ -205,7 +206,6 @@
     "TreeSitter/CLI",
     "TreeSitter/Parse/DSL",
     "TreeSitter",
-    "Web/CSS/Методологии/BEM/Слои/Элемент.md",
     "Linux learn/Linux/Исходники/browser_K437Z8U7MD.png"
   ]
 }
