@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Паттерны/Команда.md",
+                "file": "Books/System Design/Очередь сообщений.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерны/Команда.md",
+                "file": "Books/System Design/Очередь сообщений.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Паттерны/Команда.md",
+                "file": "Books/System Design/Очередь сообщений.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Паттерны/Команда.md"
+                "file": "Books/System Design/Очередь сообщений.md"
               }
             }
           },
@@ -168,10 +168,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5698d76060d07f81",
+  "active": "1731939232db0bfc",
   "lastOpenFiles": [
-    "Паттерны/Наблюдатель.md",
+    "Books/System Design/Центр обработки данных.md",
     "Паттерны/Команда.md",
+    "Паттерны/Наблюдатель.md",
     "Books/System Design/Очередь сообщений.md",
     "Паттерны/Поведенческие",
     "Books/System Design/Масштабирование.md",
@@ -182,7 +183,6 @@
     "Books/System Design/Репликация БД.md",
     "Паттерны",
     "Команда.md",
-    "Books/System Design/Центр обработки данных.md",
     "Excalidraw/Drawing 2024-07-13 00.43.50.excalidraw.md",
     "Excalidraw",
     "Books/System Design/Вертикальное масштабирование.md",
