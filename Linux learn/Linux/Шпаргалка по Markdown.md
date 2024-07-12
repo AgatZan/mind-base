@@ -29,19 +29,19 @@
 ## Ссылки
 
 
-[[README|'|'отвечает за текст заменяемый]] - ссылка на документ внутри [[]] ^rare
+[[Linux learn/Linux/README|'|'отвечает за текст заменяемый]] - ссылка на документ внутри [[]] ^rare
 
-[тоже самое](README) ^5737d6
+[тоже самое](Linux%20learn/Linux/README.md) ^5737d6
 
 [ссылка на внешний ресурс](https://habr.com/ru/companies/inpglobal/articles/722792/)  ^8fd997
 
-![[Шпаргалка по Markdown#Форматирование текста]]
+![[Linux learn/Linux/Шпаргалка по Markdown#Форматирование текста]]
 
-![[README|только встраивает]] ^8a0464
+![[Linux learn/Linux/README|только встраивает]] ^8a0464
 
 пауза
 
-![название](README) ^904520
+![название](Linux%20learn/Linux/README.md) ^904520
 
 <iframe src="https://publish.obsidian.md/help-ru/Руководства/Встраивание+вложений+в+заметки"></iframe>
 
