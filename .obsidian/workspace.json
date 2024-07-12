@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/System Design/Горизонтальное масштабирование.md",
+                "file": "Books/System Design/Горизонтальное масштабирование БД.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/System Design/Горизонтальное масштабирование.md",
+                "file": "Books/System Design/Горизонтальное масштабирование БД.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/System Design/Горизонтальное масштабирование.md",
+                "file": "Books/System Design/Горизонтальное масштабирование БД.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/System Design/Горизонтальное масштабирование.md"
+                "file": "Books/System Design/Горизонтальное масштабирование БД.md"
               }
             }
           },
@@ -170,10 +170,11 @@
   },
   "active": "1731939232db0bfc",
   "lastOpenFiles": [
+    "Books/System Design/Горизонтальное масштабирование сервера.md",
+    "Books/System Design/Горизонтальное масштабирование БД.md",
     "Books/System Design/Логирование.md",
     "Books/System Design/Масштабирование.md",
     "Books/System Design/Метрики.md",
-    "Books/System Design/Горизонтальное масштабирование.md",
     "Books/System Design/Кэширование.md",
     "Books/System Design/Очередь сообщений.md",
     "Books/System Design/Центр обработки данных.md",
@@ -202,7 +203,6 @@
     "TreeSitter/Scaner/Scaner.md",
     "TreeSitter/Scaner",
     "TreeSitter/Parse",
-    "TreeSitter/CLI/generate.md",
     "TreeSitter/CLI",
     "TreeSitter/Parse/DSL",
     "TreeSitter",
