@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/System Design/Очередь сообщений.md",
+                "file": "Паттерны/Команда.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/System Design/Очередь сообщений.md",
+                "file": "Паттерны/Команда.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/System Design/Очередь сообщений.md",
+                "file": "Паттерны/Команда.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/System Design/Очередь сообщений.md"
+                "file": "Паттерны/Команда.md"
               }
             }
           },
@@ -168,16 +168,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1731939232db0bfc",
+  "active": "5698d76060d07f81",
   "lastOpenFiles": [
-    "Команда.md",
+    "Паттерны/Наблюдатель.md",
+    "Паттерны/Команда.md",
     "Books/System Design/Очередь сообщений.md",
-    "Books/System Design/Центр обработки данных.md",
-    "Books/System Design/Горизонтальное масштабирование.md",
+    "Паттерны/Поведенческие",
     "Books/System Design/Масштабирование.md",
-    "Books/System Design/Репликация БД.md",
+    "Books/System Design/Горизонтальное масштабирование.md",
     "Books/System Design/Кэширование.md",
+    "Паттерны/Цепочка обязанностей.md",
     "Books/System Design/CDN.md",
+    "Books/System Design/Репликация БД.md",
+    "Паттерны",
+    "Команда.md",
+    "Books/System Design/Центр обработки данных.md",
     "Excalidraw/Drawing 2024-07-13 00.43.50.excalidraw.md",
     "Excalidraw",
     "Books/System Design/Вертикальное масштабирование.md",
@@ -200,12 +205,6 @@
     "TreeSitter/Parse/DSL",
     "TreeSitter",
     "Web/CSS/Методологии/BEM/Слои/Элемент.md",
-    "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 9 Недетерминированный конечный распознователь/Недетерминированный конечный распознователь (НКР).md",
-    "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 9 Недетерминированный конечный распознователь/Недетерминированный конечный автомат (НКА).md",
-    "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 8 Минимальные автоматы/Эквивалентные состояния автомата.md",
-    "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 8 Минимальные автоматы/Различающая цепочка.md",
-    "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 9 Недетерминированный конечный распознователь",
-    "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 8 Минимальные автоматы",
     "Linux learn/Linux/Исходники/browser_K437Z8U7MD.png"
   ]
 }
