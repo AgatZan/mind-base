@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/System Design/Очередь сообщений.md",
+                "file": "Books/System Design/Метрики.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/System Design/Очередь сообщений.md",
+                "file": "Books/System Design/Метрики.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/System Design/Очередь сообщений.md",
+                "file": "Books/System Design/Метрики.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/System Design/Очередь сообщений.md"
+                "file": "Books/System Design/Метрики.md"
               }
             }
           },
@@ -170,10 +170,11 @@
   },
   "active": "1731939232db0bfc",
   "lastOpenFiles": [
+    "Books/System Design/Очередь сообщений.md",
+    "Books/System Design/Метрики.md",
     "Books/System Design/Центр обработки данных.md",
     "Паттерны/Команда.md",
     "Паттерны/Наблюдатель.md",
-    "Books/System Design/Очередь сообщений.md",
     "Паттерны/Поведенческие",
     "Books/System Design/Масштабирование.md",
     "Books/System Design/Горизонтальное масштабирование.md",
