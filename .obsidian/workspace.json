@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/System Design/Репликация БД.md",
+                "file": "Books/System Design/CDN.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/System Design/Репликация БД.md",
+                "file": "Books/System Design/CDN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/System Design/Репликация БД.md",
+                "file": "Books/System Design/CDN.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/System Design/Репликация БД.md"
+                "file": "Books/System Design/CDN.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "1731939232db0bfc",
   "lastOpenFiles": [
-    "Books/System Design/Масштабирование.md",
     "Books/System Design/Репликация БД.md",
+    "Books/System Design/CDN.md",
+    "Books/System Design/Масштабирование.md",
     "Books/System Design/Вертикальное масштабирование.md",
     "test_case/Шпаргалка по Markdown.md",
     "Без названия.md",
@@ -214,7 +215,6 @@
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 7 Регулярные выражения/Расширенные определения регулярных выражений.md",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 7 Регулярные выражения/Определение регулярного выражения.md",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 7 Регулярные выражения/Алгебраические законы регулярных выражений.md",
-    "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 6 Конечные автоматы/Допускающаяся цепочка.md",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 9 Недетерминированный конечный распознователь",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 8 Минимальные автоматы",
     "ТАиФЯ - ПиАПС/Определения ТАиФЯ/Раздел 7 Регулярные выражения",
