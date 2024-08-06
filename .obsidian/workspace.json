@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a26bdd53a988649",
+            "id": "1731939232db0bfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SICP/Теория/Выражение.md",
+                "file": "SICP/Теория/Переменные.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "dd83821037d07cca",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SICP/Теория/Выражение.md",
+                "file": "SICP/Теория/Переменные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SICP/Теория/Выражение.md",
+                "file": "SICP/Теория/Переменные.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SICP/Теория/Выражение.md"
+                "file": "SICP/Теория/Переменные.md"
               }
             }
           },
@@ -133,7 +125,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -166,50 +158,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a26bdd53a988649",
+  "active": "1731939232db0bfc",
   "lastOpenFiles": [
-    "SICP/Теория/Без названия.md",
-    "HP/Регистры/Общего назначения.md",
     "SICP/Теория/Выражение.md",
+    "SICP/Теория/Переменные.md",
+    "Без названия.md",
     "SICP/Теория",
     "SICP",
-    "HP/Регистры/Сегментные.md",
-    "HP/Регистры/Указатель команд.md",
-    "HP/Регистры/Флаг.md",
-    "HP/Модификация адресов.md",
-    "HP/Регистры.md",
-    "HP/Память.md",
-    "Регистры/Сегментные.md",
-    "Регистры",
-    "HP/Машинные операции.md",
-    "HP/Регистры/Без названия.md",
-    "машинных операциях.md",
-    "HP/Регистры",
-    "HP",
-    "SICP/Упражения",
-    "ОС/Без названия.md",
-    "Js learn/Б Методы работы с  Array.md",
-    "Js learn/WeakSet.md",
-    "Js learn/WeakMap.md",
-    "Js learn/Symbol.md",
-    "Js learn/Swap.md",
-    "Js learn/setTimeout.md",
-    "Js learn/setInterval.md",
-    "Js learn/Set.md",
-    "Js learn/Map.md",
-    "Js learn/for of.md",
-    "Js learn/for in.md",
-    "Js learn/Хаки",
-    "Js learn/Функции",
-    "Js learn/Тестирование",
-    "Js learn/Преобразование"
+    "Команда.md",
+    "Паттерны/Цепочка обязанностей.md",
+    "Паттерны/Наблюдатель.md",
+    "Паттерны/Команда.md",
+    "Books/System Design/Горизонтальное масштабирование БД.md",
+    "Books/System Design/Горизонтальное масштабирование сервера.md",
+    "Books/System Design/Согласованное шардирование.md",
+    "Books/System Design/Логирование.md",
+    "Books/System Design/Масштабирование.md",
+    "Books/System Design/Метрики.md",
+    "Books/System Design/Кэширование.md",
+    "Books/System Design/Очередь сообщений.md",
+    "Books/System Design/Центр обработки данных.md",
+    "Паттерны/Поведенческие",
+    "Books/System Design/CDN.md",
+    "Books/System Design/Репликация БД.md",
+    "Паттерны",
+    "Excalidraw/Drawing 2024-07-13 00.43.50.excalidraw.md",
+    "Excalidraw",
+    "Books/System Design/Вертикальное масштабирование.md",
+    "test_case/Шпаргалка по Markdown.md",
+    "Books/System Design",
+    "Books",
+    "test_case/README.md",
+    "test_case/Шпаргалка по git.md",
+    "TreeSitter/Замечания.md",
+    "TreeSitter/CLI.md",
+    "TreeSitter/Parse/DSL/Seq.md",
+    "TreeSitter/Scaner",
+    "TreeSitter/Parse",
+    "TreeSitter/CLI",
+    "Linux learn/Linux/Исходники/browser_K437Z8U7MD.png"
   ]
 }
