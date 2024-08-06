@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/System Design/Горизонтальное масштабирование БД.md",
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/System Design/Горизонтальное масштабирование БД.md",
+                "file": "Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/System Design/Горизонтальное масштабирование БД.md",
+                "file": "Без названия.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/System Design/Горизонтальное масштабирование БД.md"
+                "file": "Без названия.md"
               }
             }
           },
@@ -170,28 +170,28 @@
   },
   "active": "1731939232db0bfc",
   "lastOpenFiles": [
+    "Команда.md",
+    "Без названия.md",
+    "Паттерны/Цепочка обязанностей.md",
+    "Паттерны/Наблюдатель.md",
+    "Паттерны/Команда.md",
+    "Books/System Design/Горизонтальное масштабирование БД.md",
     "Books/System Design/Горизонтальное масштабирование сервера.md",
     "Books/System Design/Согласованное шардирование.md",
-    "Books/System Design/Горизонтальное масштабирование БД.md",
     "Books/System Design/Логирование.md",
     "Books/System Design/Масштабирование.md",
     "Books/System Design/Метрики.md",
     "Books/System Design/Кэширование.md",
     "Books/System Design/Очередь сообщений.md",
     "Books/System Design/Центр обработки данных.md",
-    "Паттерны/Команда.md",
-    "Паттерны/Наблюдатель.md",
     "Паттерны/Поведенческие",
-    "Паттерны/Цепочка обязанностей.md",
     "Books/System Design/CDN.md",
     "Books/System Design/Репликация БД.md",
     "Паттерны",
-    "Команда.md",
     "Excalidraw/Drawing 2024-07-13 00.43.50.excalidraw.md",
     "Excalidraw",
     "Books/System Design/Вертикальное масштабирование.md",
     "test_case/Шпаргалка по Markdown.md",
-    "Без названия.md",
     "Books/System Design",
     "Books",
     "test_case/README.md",
