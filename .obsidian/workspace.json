@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "06059c0cbb5d1272",
+        "id": "c97bb1c4d9cdfd12",
         "type": "tabs",
         "children": [
           {
             "id": "1731939232db0bfc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SICP/Теория/Переменные.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SICP/Теория/Переменные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SICP/Теория/Переменные.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SICP/Теория/Переменные.md"
+              }
             }
           },
           {
@@ -162,39 +170,39 @@
   },
   "active": "1731939232db0bfc",
   "lastOpenFiles": [
+    "SICP/Теория/Выражение.md",
+    "SICP/Теория/Переменные.md",
+    "Без названия.md",
+    "SICP/Теория",
+    "SICP",
+    "Команда.md",
     "Паттерны/Цепочка обязанностей.md",
     "Паттерны/Наблюдатель.md",
     "Паттерны/Команда.md",
+    "Books/System Design/Горизонтальное масштабирование БД.md",
+    "Books/System Design/Горизонтальное масштабирование сервера.md",
+    "Books/System Design/Согласованное шардирование.md",
+    "Books/System Design/Логирование.md",
+    "Books/System Design/Масштабирование.md",
+    "Books/System Design/Метрики.md",
+    "Books/System Design/Кэширование.md",
+    "Books/System Design/Очередь сообщений.md",
+    "Books/System Design/Центр обработки данных.md",
+    "Паттерны/Поведенческие",
+    "Books/System Design/CDN.md",
+    "Books/System Design/Репликация БД.md",
     "Паттерны",
-    "ОС/Без названия.md",
-    "ОС",
-    "ММФП/Операторы/Оператор дивергенция.md",
-    "ММФП/Операторы/Оператор ротор.md",
-    "ММФП/Операторы/Оператор Лапласа(лапласиан).md",
-    "ММФП/Операторы/Оператор градиент.md",
-    "ММФП/Операторы/Оператор Гамильтона(символ набла).md",
-    "ММФП/Цилиндрические координаты.md",
-    "ММФП/Формула Остроградского.md",
-    "ММФП/Формула Грина.md",
-    "ММФП/Сферичиские координаты.md",
-    "ММФП/Стационарные процессы.md",
-    "ММФП/Скалярное поле.md",
-    "ММФП/Потенциальное поле.md",
-    "ММФП/Поле.md",
-    "ММФП/Поверхность уровня.md",
-    "ММФП/Операторы.md",
-    "ММФП/Операторы",
-    "ММФП/Математическая физика.md",
-    "ММФП/Линия тока.md",
-    "ММФП/Векторное поле.md",
-    "ММФП",
+    "Excalidraw/Drawing 2024-07-13 00.43.50.excalidraw.md",
+    "Excalidraw",
+    "Books/System Design/Вертикальное масштабирование.md",
     "test_case/Шпаргалка по Markdown.md",
-    "test_case/Шпаргалка по git.md",
+    "Books/System Design",
+    "Books",
     "test_case/README.md",
-    "test_case",
-    "VIM/cmd.md",
-    "VIM",
-    "TreeSitter/Parse/DSL",
+    "test_case/Шпаргалка по git.md",
+    "TreeSitter/Замечания.md",
+    "TreeSitter/CLI.md",
+    "TreeSitter/Parse/DSL/Seq.md",
     "TreeSitter/Scaner",
     "TreeSitter/Parse",
     "TreeSitter/CLI",
